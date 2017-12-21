@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Spark_Java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Spark_Java_jar</output-path>
+    <root id="archive" name="Spark_Java.jar">
+      <element id="module-output" name="Spark_Java" />
+      <element id="library" level="project" name="Maven: org.apache.spark:spark-streaming-kafka_2.10:2.2.0" />
+    </root>
+  </artifact>
+</component>
